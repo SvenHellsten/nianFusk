@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nianFusk/static/css/main.1d18bd30.chunk.css",
-    "main.js": "/nianFusk/static/js/main.8a6d691e.chunk.js",
-    "main.js.map": "/nianFusk/static/js/main.8a6d691e.chunk.js.map",
+    "main.js": "/nianFusk/static/js/main.bf4158c2.chunk.js",
+    "main.js.map": "/nianFusk/static/js/main.bf4158c2.chunk.js.map",
     "runtime-main.js": "/nianFusk/static/js/runtime-main.8fcc49be.js",
     "runtime-main.js.map": "/nianFusk/static/js/runtime-main.8fcc49be.js.map",
     "static/js/2.992d712a.chunk.js": "/nianFusk/static/js/2.992d712a.chunk.js",
     "static/js/2.992d712a.chunk.js.map": "/nianFusk/static/js/2.992d712a.chunk.js.map",
     "index.html": "/nianFusk/index.html",
-    "precache-manifest.dbfc151208d2bf4f17e9d0c552b4a8e3.js": "/nianFusk/precache-manifest.dbfc151208d2bf4f17e9d0c552b4a8e3.js",
+    "precache-manifest.fdf9eb5a5c8c7e7463fb039bf6f2a53a.js": "/nianFusk/precache-manifest.fdf9eb5a5c8c7e7463fb039bf6f2a53a.js",
     "service-worker.js": "/nianFusk/service-worker.js",
     "static/css/main.1d18bd30.chunk.css.map": "/nianFusk/static/css/main.1d18bd30.chunk.css.map",
     "static/js/2.992d712a.chunk.js.LICENSE": "/nianFusk/static/js/2.992d712a.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8fcc49be.js",
     "static/js/2.992d712a.chunk.js",
     "static/css/main.1d18bd30.chunk.css",
-    "static/js/main.8a6d691e.chunk.js"
+    "static/js/main.bf4158c2.chunk.js"
   ]
 }

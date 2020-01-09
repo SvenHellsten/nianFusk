@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nianFusk/precache-manifest.dbfc151208d2bf4f17e9d0c552b4a8e3.js"
+  "/nianFusk/precache-manifest.fdf9eb5a5c8c7e7463fb039bf6f2a53a.js"
 );
 
 self.addEventListener('message', (event) => {
